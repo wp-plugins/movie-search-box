@@ -17,6 +17,4 @@ Stable tag:1.0
 == Description ==
 widget di film-review per offrire ai lettori del tuo sito informazioni, servizi e risorse gratuite sul cinema italiano e internazionale.
 == Screenshots ==
-../tags/screenshot.jpg
-./tags/screenshot.jpg
 screenshot.jpg
